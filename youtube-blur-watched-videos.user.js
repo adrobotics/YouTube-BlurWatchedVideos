@@ -4,8 +4,8 @@
 // @namespace    https://github.com/adrobotics/YouTube-BlurWatchedVideos
 // @description  Blurs the thumbnail of all previously watched videos on YouTube.
 // @version      1.0
-// @downloadURL  https://raw.githubusercontent.com/adrobotics/YouTube-BlurWatchedVideos/master/youtube-blur-watched-videos.user.js
-// @updateURL    https://raw.githubusercontent.com/adrobotics/YouTube-BlurWatchedVideos/master/youtube-blur-watched-videos.meta.js
+// @downloadURL  http://raw.githubusercontent.com/adrobotics/YouTube-BlurWatchedVideos/master/youtube-blur-watched-videos.user.js
+// @updateURL    http://raw.githubusercontent.com/adrobotics/YouTube-BlurWatchedVideos/master/youtube-blur-watched-videos.meta.js
 // @icon         https://www.google.com/s2/favicons?domain=www.youtube.com
 // @match        https://www.youtube.com
 // @match        https://www.youtube.com/watch*
